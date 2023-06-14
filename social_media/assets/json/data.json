@@ -1,0 +1,56 @@
+{
+    "users": [
+      {
+        "id":1,
+        "name":"Labhesh",
+        "email":"labhesh@gmail.com",
+        "password":"labhesh123",
+        "posts":[]
+      },
+      {
+        "id": 2,
+        "name": "Ankush",
+        "email": "ankush@gmail.com",
+        "password": "ankush123",
+        "posts": [
+          {
+            "id": 1,
+            "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "image": "https://neilpatel.com/wp-content/uploads/2017/09/blog-post-image-guide.jpg"
+          },
+          {
+            "id": 2,
+            "caption": "Fusce tincidunt tristique lectus, in feugiat justo suscipit id.",
+            "image": "https://cdn.dribbble.com/users/6143347/screenshots/16998512/social_media_post_design_4x.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Roshan",
+        "email": "Roshan@gmail.com",
+        "password": "Roshan123",
+        "posts": [
+          {
+            "id": 3,
+            "caption": "Maecenas eu tincidunt tellus. ",
+            "image": "https://i.ytimg.com/vi/rnKM2hXIxjo/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bishal",
+        "email": "bishal@gmail.com",
+        "password": "bishal123",
+        "posts": [
+          {
+          "id": 4,
+          "caption": "Sed at ipsum quis neque interdum tincidunt. ",
+          "image": "https://coreldrawdesign.com/resources/previews/preview-grow-your-business-social-media-post-and-banner-template-premium-vector-1637332009.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
